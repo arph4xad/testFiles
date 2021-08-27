@@ -600,7 +600,7 @@ paths:
                 type: object
           description: Successfully retrieved the record for a single attachment.
         "400":
-          $ref: "#/components/responses/BadRequest"
+          $ref: "#/componentsS/responses/BadRequest"
         "401":
           $ref: "#/components/responses/Unauthorized"
         "402":
